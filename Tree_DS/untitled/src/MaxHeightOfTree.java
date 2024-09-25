@@ -13,7 +13,8 @@
 */
 class Node {
     int data;
-    Node left, right;
+     Node left;
+     Node right;
 
     Node(int val) {
         data = val;
