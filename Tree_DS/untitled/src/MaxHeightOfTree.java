@@ -30,7 +30,6 @@ public class MaxHeightOfTree {
         // subtrees
         int lDepth = maxDepth(node.left);
         int rDepth = maxDepth(node.right);
-
         // use the larger one
         return Math.max(lDepth, rDepth) + 1;
     }
