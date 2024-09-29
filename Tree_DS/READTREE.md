@@ -2,6 +2,8 @@ Made with :heart:
 -----------------
 Theory for trees  
 
+Binary Tree is a non-linear data structure where each node has at most two children.
+
 IDENTICAL TREES  
 -----------------
 3 ways to verify  
@@ -15,3 +17,4 @@ IDENTICAL TREES
 -> Moreover, Morris traversal has some overhead due to the creation and removal of threads (temporary pointers), which can make 
   it less intuitive or complex compared to other methods.  
 
+  file:///home/shrey/Downloads/Introduction-to-Binary-Tree.webp
