@@ -17,4 +17,4 @@ IDENTICAL TREES
 -> Moreover, Morris traversal has some overhead due to the creation and removal of threads (temporary pointers), which can make 
   it less intuitive or complex compared to other methods.  
 
-  file:///home/shrey/Downloads/Introduction-to-Binary-Tree.webp
+ ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp)
