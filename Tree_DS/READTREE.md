@@ -3,7 +3,7 @@ Theory for trees
 IDENTICAL TREES  
 ------------------  
 3 ways to verify  
-[1] Using DFS (simple recursion) – O(n) Time and O(n) Space  ---- (Most Optimal)
+[1] Using DFS (simple recursion) – O(n) Time and O(n) Space ---- (Most Optimal)  
 [2] Using Level Order Traversal (BFS) – O(n) Time and O(n) Space  
 [3] Using Morris Traversal – O(n) Time and O(1) Space  
 
