@@ -4,7 +4,7 @@ Theory for trees
 
 Binary Tree is a non-linear data structure where each node has at most two children.
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp" width="300" />
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp" width="400" />
 
 IDENTICAL TREES  
 -----------------
@@ -18,5 +18,3 @@ IDENTICAL TREES
 -> But it modifies the tree structure temporarily during the traversal, which may not always be ideal.    
 -> Moreover, Morris traversal has some overhead due to the creation and removal of threads (temporary pointers), which can make 
   it less intuitive or complex compared to other methods.  
-
- ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp)
