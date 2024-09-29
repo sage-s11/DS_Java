@@ -4,7 +4,7 @@ Theory for trees
 
 Binary Tree is a non-linear data structure where each node has at most two children.
 
-<img src="[https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp] width="300" />
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp width="300" />
 
 IDENTICAL TREES  
 -----------------
