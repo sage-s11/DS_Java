@@ -7,7 +7,6 @@ public class IsMirror {
         if(r1==null || r2==null){
             return false;
         }
-
         return r1.data==r2.data && (isMirror(r1.left,r2.right)) && (isMirror(r1.right,r2.left));
     }
 
