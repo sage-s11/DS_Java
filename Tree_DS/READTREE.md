@@ -6,7 +6,7 @@ Binary Tree is a non-linear data structure where each node has at most two child
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240811023816/Introduction-to-Binary-Tree.webp" width="400" />
 
-IDENTICAL TREES  
+### IDENTICAL TREES  
 -----------------
 3 ways to verify  
 [1] Using DFS (simple recursion) – O(n) Time and O(n) Space ---- (Most Optimal)  
